@@ -13,8 +13,8 @@
             "carousel_dot_width": "50"
         },
         ".video-item": {
-            "video_item_margin_bottom": "50",
-            "video_item_padding_bottom": "50"
+            "video_item_margin_bottom": "100",
+            "video_item_padding_bottom": "100"
         }
     }
 }
