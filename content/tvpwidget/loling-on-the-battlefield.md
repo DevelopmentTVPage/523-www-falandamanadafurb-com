@@ -17,7 +17,9 @@
             "video_item_padding_bottom": "100"
         },
         ".widget-modal-body": {
-            "widget_modal_body_background_color": "rgba(255, 0, 0, 1)"
+            "widget_modal_body_background_color": "rgba(8, 104, 0, 1)",
+            "widget_modal_body_border_style": "solid",
+            "widget_modal_body_border_width": "15"
         }
     }
 }
