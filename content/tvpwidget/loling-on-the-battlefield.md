@@ -15,6 +15,9 @@
         ".video-item": {
             "video_item_margin_bottom": "100",
             "video_item_padding_bottom": "100"
+        },
+        ".widget-modal-body": {
+            "widget_modal_body_background_color": "rgba(255, 0, 0, 1)"
         }
     }
 }
