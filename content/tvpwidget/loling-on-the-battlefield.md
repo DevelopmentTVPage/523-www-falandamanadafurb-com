@@ -11,6 +11,10 @@
         ".slick-dots li button": {
             "carousel_dot_height": "50",
             "carousel_dot_width": "50"
+        },
+        ".video-item": {
+            "video_item_margin_bottom": "50",
+            "video_item_padding_bottom": "50"
         }
     }
 }
